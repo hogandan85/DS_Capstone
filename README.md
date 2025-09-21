@@ -1,3 +1,5 @@
 Causal Forests in Inflation Studies: Evaluating the Accuracy of Inflation Theories.
+
 View ProjectComplete.ipynb for all coding
+
 I employed a causal forest to identify the causal relationship of three specific inflation theories, Monetarism, New Keynesian, and the Fiscal Theory of the Price Level. By using a range of heterogeneous and confounding effect controls, I isolate the causal treatment of unemployment, percent change in money in circulation and percent change in government debt over gross domestic product, representing New Keynesian theory, Monetarism and Fiscal theory of the Price Level respectively. By comparing the treatment effect from each model, I gauge the effectiveness of each theory in practice. Unemployment had the largest average treatment effect, at -.14 on inflation. Monetarism was the second most supported inflation theory, as it had a treatment effect of .12. The fiscal theory had no treatment effect. I draw the conclusion that continuing to base inflation theories around the movement of the phillips curve and New Keynesian theory remains the most viable option for both central bankers and private firms.  
